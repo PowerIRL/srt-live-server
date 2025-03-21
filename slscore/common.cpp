@@ -22,7 +22,6 @@
  * CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-#include <ctime>
 
 #include <sys/socket.h>
 #include <sys/stat.h>
@@ -47,6 +46,8 @@
 
 
 #include "common.hpp"
+#include <time.h>
+#include <ctime>
 
 
 /**
