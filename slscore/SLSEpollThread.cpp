@@ -32,7 +32,7 @@
 #include "common.hpp"
 #include "SLSRole.hpp"
 
-#include <srtcore/srt.h>
+#include <srt/srtcore/srt.h>
 
 /**
  * CSLSThread class implementation
