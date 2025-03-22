@@ -29,7 +29,7 @@
 #include <errno.h>
 #include <unistd.h>
 #include <sys/types.h>
-#include <srt/srt.h>
+#include <srtcore/srt.h>
 
 #include "SLSClient.hpp"
 #include "SLSLog.hpp"
