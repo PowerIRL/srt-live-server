@@ -26,7 +26,7 @@
 #ifndef _SLSRrt_INCLUDE_
 #define _SLSRrt_INCLUDE_
 
-#include <srt/srtcore/srt.h>
+#include <srt/srt.h>
 
 enum SRTMode {
     SRT_MODE_CALLER = 0,
